@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-eam Name:
+Team Name:
 Your team's name (if your team took part in the QPARK-Challenge-2022, the name here should match)
 
 Project Description:
