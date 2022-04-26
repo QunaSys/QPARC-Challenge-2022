@@ -1,9 +1,9 @@
 ---
-name: Open Hackathon Submission
+name: Open Hackathon Final Submission
 about: A template to be used for submitting your final QPARK-Challenge-2022 project
-title: [ENTRY] Your Project Title
-labels: 
-assignees: 
+title: "[ENTRY] Your Project Title"
+labels: ''
+assignees: ''
 
 ---
 
