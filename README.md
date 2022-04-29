@@ -17,7 +17,7 @@ Submission repository for QPARC Challenge 2022 https://www.quantumcomputingchall
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
+  <td>May 6 17:00-18:30<br>Kick-off Event</td>
   <td></td>
 </tr>
 <tr>
