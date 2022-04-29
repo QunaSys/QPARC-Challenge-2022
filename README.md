@@ -3,9 +3,13 @@ Submission repository for QPARC Challenge 2022 https://www.quantumcomputingchall
 
 <table>
 <tr>
-  <th>見出し1</th>
-  <th>見出し2</th>
-  <th>見出し3</th>
+  <th>Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
 </tr>
 <tr>
   <td>内容1-1</td>
