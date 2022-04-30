@@ -1,8 +1,10 @@
 ![image2](https://user-images.githubusercontent.com/81676915/166094918-280c5d1b-a8e1-41e9-81cd-73ac42e4a545.jpg)
 
 # QPARC-Challenge-2022
-Submission repository for QPARC Challenge 2022 https://www.quantumcomputingchallenge.com/
-
+ [QPARC Challenge 2022](https://www.quantumcomputingchallenge.com/)  
+ [Qulacs](https://qulacs.slack.com/join/shared_invite/enQtNzY1OTM5MDYxMjAxLWM1ZDc3MzdiNjZhZjdmYTQ5MTJiOTEzZjI3ZjAwZTg0OGFiNjcxY2VjZWRjMWY0YjE5ZTViOWQzZTliYzdmYzY#/shared-invite/email)  
+ [Youtube]()
+ 
 ## What is QPARC Challenge?
 QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. Participants can access Qamuy, a quantum computing cloud service, to solve challenges in combination with other quantum chemistry calculation programs.
  
@@ -20,7 +22,13 @@ From 6th to 15th of May, participants will solve challenges related to material 
  
 You can choose a challenge that is related to your area of ex.epertise or you're interested in. Aims and evaluation criteria for each type are shown in a table below.  
 ## Prizes
+The winner of this challenge with a great project will receive a great prize!
 
+#### 1. Monetary awards
+   - Quantum Information Experts : 5,000 USD
+   - Quantum Chemistry Experts : 5,000 USD
+
+#### 2. [Qamuy](https://qunasys.com/en/services/qamuy) free license
 
 ## Detail of QPARC Challenge
 
