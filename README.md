@@ -9,15 +9,15 @@
 ### What is QPARC Challenge?
 QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. Participants can access Qamuy, a quantum computing cloud service, to solve challenges in combination with other quantum chemistry calculation programs.
  
-From 6th to 15th of May, participants will solve challenges related to material development. On 29th May, finalists are selected for the next step and prepare for a presentation for the final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded 10,000 USD in total (5,000 USD for each Challenges) and Qamuy free license.
+From 6th to 15th of May, participants will solve challenges related to material development. On 29th May, finalists are selected for the next step and prepare for a presentation for the final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded 10,000 USD in total (5,000 USD for each challenge) and Qamuy free license.
 
 ---
 ### What is new about QPARC Challenge?
 #### 1. Key concept  
-  The unique point of the QPARC challenge is that we start from the existing “State-of-the-art algorithm”. While many other challenges introduce existing applications to which quantum algorithms can be applied, QPARC Challenge only sets industrial problems. You can use Qamuy  to perform numerous chemical simulations.
+ The unique point of the QPARC challenge is that we start from the existing “State-of-the-art algorithm”. While many other challenges introduce existing applications to which quantum algorithms can be applied, QPARC Challenge only sets industrial problems. You can use Qamuy  to perform numerous chemical simulations.
 
 #### 2. Challenges specific to your area of expertise  
-  In OPARC Challenge, there are two types of challenges:
+ In OPARC Challenge, there are two types of challenges:
 
  - [Quantum Information Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Information-Expert)
  - [Quantum Chemistry Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Chemistry-Expert)
@@ -101,15 +101,15 @@ Here are overview of each challenge. For more infomation, please see [Quantum In
     <b>May 6, 17:00-18:30 (JST):</b><br>
     Kick-off Event<br>
     <ul>
-      <li>Overview and detailed description of Challanges - Tennin Yan
+      <li>QPARC Challange 2022: Overview and Description - Tennin Yan
         <ul>
           <li>Problem description of each challenge (Quantum Information Expert / Quantum Chemistry Expert)</li>
-          <li>Evalution criteria</li>
+          <li>Evaluation criteria</li>
           <li>Awards, etc.</li>
         </ul>
       </li>
-      <li>Quantum chemistry and quantum computer - Kosuke Mitarai</li>
-      <li>Qamuy tutorial - Andreas Thomasen</li>
+      <li>Quantum Chemistry and Quantum Computer - Kosuke Mitarai</li>
+      <li>Qamuy Tutorial - Andreas Thomasen</li>
     </ul>
   </td>
   <td></td>
