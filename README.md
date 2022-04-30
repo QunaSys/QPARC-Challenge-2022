@@ -4,19 +4,19 @@
 Submission repository for QPARC Challenge 2022 https://www.quantumcomputingchallenge.com/
 
 # What is QPARC Challenge?
-QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. Participants can access freely to Qamuy, a quantum computing cloud service, to solve challenges in combination with other quantum chemistry calculation programs.
+QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. Participants can access Qamuy, a quantum computing cloud service, to solve challenges in combination with other quantum chemistry calculation programs.
  
-From 6th to 15th of May, participants will solve challenges related to material development. On 15th May, finalists are selected for next step and prepare for presentation for final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded total 10,000 USD and Qamuy free licence.
+From 6th to 15th of May, participants will solve challenges related to material development. On 29th May, finalists are selected for the next step and prepare for a presentation for the final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded 10,000 USD in total (5,000 USD for each Challenges) and Qamuy free license.
 
 # What is new about QPARC Challenge?
-(i) Key concept
-The unique point of the QPARC challenge is that we start from the existing “State-of-the-art algorithm”. While many other challenges introduce existing applications to which quantum algorithms can be applied, QPARC Challenge only sets industrial problems. You can use Qamuy  to perform numerous chemical simulations.
+## 1. Key concept  
+  The unique point of the QPARC challenge is that we start from the existing “State-of-the-art algorithm”. While many other challenges introduce existing applications to which quantum algorithms can be applied, QPARC Challenge only sets industrial problems. You can use Qamuy  to perform numerous chemical simulations.
 
-(ii) Challenges specific to your area of expertise
-In OPARC Challenge, there are two types of challenges:
+## 2. Challenges specific to your area of expertise  
+  In OPARC Challenge, there are two types of challenges:
 
- For Quantum Information Experts
- For Quantum Chemistry Experts
+ - [Quantum Information Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Information-Expert)
+ - [Quantum Chemistry Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Chemistry-Expert)
  
 You can choose a challenge that is related to your area of ex.epertise or you're interested in. Aims and evaluation criteria for each type are shown in a table below.  
 
@@ -29,16 +29,39 @@ You can choose a challenge that is related to your area of ex.epertise or you're
   <th>Quantum Chemistry Expart</th>
 <tr>
   <th>Challenge</th>
-  <th></th>
-  <th></th>
+  <td>What’s the best way to speed-up for a given chemical system & algorithm?</td>
+  <td>Which chemical system could be calculated most efficiently using a given algorithm?</td>
 <tr>
-  <th>Aim and expectation</th>
-  <th></th>
-  <th></th>
+  <td>Aim and expectation</td>
+  <td align="left" valign="top">
+   <ul>
+    <li>VQE (Variational quantum eigensolver) is one of the most famous methods using NISQ devices to calculate quantum chemical problem. However, the problem is it takes huge time to get result due to the iterative character and the need for sampling during the parameter optimization process</li>
+    <li>In this challenge, participants are expected to reduce the computational cost as much as possible for a given chemical system & algorithm.
+     <ul><li>(e.g. use the methods like efficient circuit mapping or efficient parameter update)</li></ul>
+    </li>
+   </ul>
+  </td>
+  <td align="left" valign="top">
+   <ul>
+    <li>In VQE calculation, depending on the ansatz, we can get several unique characteristics which classical computer usually doesn’t have such as
+     <ul>
+      <li>The number of electron is not preserved and able to change throughout the reaction</li>
+      <li>Spin multiplicity is not fixed and able to change throughout the reaction, and so on.</li>
+     </ul>
+    </li>
+    <li>In this challenge, participants are expected to 
+     <ol>
+      <li>select a chemical system where the unique characteristics of quantum is mostly enhanced and</li>
+      <li>demonstrate the idea.</li>
+     </ol>  
+     (You can use our chemical calculation software “Qamuy” to do the demonstration)
+    </li>
+   </ul>
+  </td>
 <tr>
-  <th>Evaluation criteria</th>
-  <th></th>
-  <th></th>
+  <td>Evaluation criteria</td>
+  <td align="center" valign="middle">Total reduction of calculation time</td>
+  <td align="center" valign="middle">Innovativeness of the system selection</td>
 </table>
   
 # Schedule
@@ -124,6 +147,7 @@ You can choose a challenge that is related to your area of ex.epertise or you're
   <td></td>
 </tr>
 </table>
+
 # How to submit
 To submit, simply open an Issue using this template summarizing your project. Specifically, this issue should contain:
 
