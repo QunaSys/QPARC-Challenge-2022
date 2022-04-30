@@ -149,13 +149,13 @@ You can choose a challenge that is related to your area of ex.epertise or you're
 </table>
 
 # How to submit
-To submit, simply open an Issue using this template summarizing your project. Specifically, this issue should contain:
+To submit, simply open an Issue using [this template](https://github.com/QunaSys/QPARC-Challenge-2022/blob/main/.github/ISSUE_TEMPLATE/QPARC-Challenge-2022.md) summarizing your project. Specifically, this issue should contain:  
 
-Team name: Your team's name
-Team members: Listup all members name
-Applied challenge: Choose from: Chemistry Challenge Information Challenge In addition, please label this GitHub issue with the challenge you applied.
-Project Description: A brief description of your project (1-2 paragraphs).
-Presentation: A link of presentation of your team’s hackathon project (e.g., video, jupyter notebook, slideshow, etc.).
-Source code: A link to the final source code for your team's hackathon project (e.g., a GitHub repo).
+1. Team name: Your team's name
+2. Team members: Listup all members name
+3. Applied challenge: Choose from: Chemistry Challenge Information Challenge In addition, please label this GitHub issue with the challenge you applied.
+4. Project Description: A brief description of your project (1-2 paragraphs).
+5. Presentation: A link of presentation of your team’s hackathon project (e.g., video, jupyter notebook, slideshow, etc.).
+6. Source code: A link to the final source code for your team's hackathon project (e.g., a GitHub repo).
 
 # Tutorials
