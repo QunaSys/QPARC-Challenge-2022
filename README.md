@@ -3,24 +3,26 @@
 # QPARC-Challenge-2022
 Submission repository for QPARC Challenge 2022 https://www.quantumcomputingchallenge.com/
 
-# What is QPARC Challenge?
+## What is QPARC Challenge?
 QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. Participants can access Qamuy, a quantum computing cloud service, to solve challenges in combination with other quantum chemistry calculation programs.
  
 From 6th to 15th of May, participants will solve challenges related to material development. On 29th May, finalists are selected for the next step and prepare for a presentation for the final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded 10,000 USD in total (5,000 USD for each Challenges) and Qamuy free license.
 
-# What is new about QPARC Challenge?
-## 1. Key concept  
+## What is new about QPARC Challenge?
+### 1. Key concept  
   The unique point of the QPARC challenge is that we start from the existing “State-of-the-art algorithm”. While many other challenges introduce existing applications to which quantum algorithms can be applied, QPARC Challenge only sets industrial problems. You can use Qamuy  to perform numerous chemical simulations.
 
-## 2. Challenges specific to your area of expertise  
+### 2. Challenges specific to your area of expertise  
   In OPARC Challenge, there are two types of challenges:
 
  - [Quantum Information Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Information-Expert)
  - [Quantum Chemistry Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Chemistry-Expert)
  
 You can choose a challenge that is related to your area of ex.epertise or you're interested in. Aims and evaluation criteria for each type are shown in a table below.  
+## Prizes
 
-# Detail of QPARC Challenge
+
+## Detail of QPARC Challenge
 
 <table>
 <tr>
@@ -54,9 +56,9 @@ You can choose a challenge that is related to your area of ex.epertise or you're
       <li>select a chemical system where the unique characteristics of quantum is mostly enhanced and</li>
       <li>demonstrate the idea.</li>
      </ol>  
-     (You can use our chemical calculation software “Qamuy” to do the demonstration)
     </li>
    </ul>
+   (You can use our chemical calculation software “Qamuy” to do the demonstration)
   </td>
 <tr>
   <td>Evaluation criteria</td>
@@ -64,7 +66,7 @@ You can choose a challenge that is related to your area of ex.epertise or you're
   <td align="center" valign="middle">Innovativeness of the system selection</td>
 </table>
   
-# Schedule
+## Schedule
 <table>
 <tr>
   <th>Sun</th>
@@ -148,14 +150,16 @@ You can choose a challenge that is related to your area of ex.epertise or you're
 </tr>
 </table>
 
-# How to submit
+## How to submit
 To submit, simply open an Issue using [this template](https://github.com/QunaSys/QPARC-Challenge-2022/blob/main/.github/ISSUE_TEMPLATE/QPARC-Challenge-2022.md) summarizing your project. Specifically, this issue should contain:  
 
 1. Team name: Your team's name
 2. Team members: Listup all members name
-3. Applied challenge: Choose from: Chemistry Challenge Information Challenge In addition, please label this GitHub issue with the challenge you applied.
+3. Applied challenge: Choose from Chemistry Challenge/Information Challenge. In addition, please label this GitHub issue with the challenge you applied.
 4. Project Description: A brief description of your project (1-2 paragraphs).
 5. Presentation: A link of presentation of your team’s hackathon project (e.g., video, jupyter notebook, slideshow, etc.).
 6. Source code: A link to the final source code for your team's hackathon project (e.g., a GitHub repo).
 
-# Tutorials
+*If you are applying for both Challenges,  you must submit the two projects separately. For example, submit one project with Chemistry Challenge label, and another project with Information Challenge label.
+
+## Tutorials
