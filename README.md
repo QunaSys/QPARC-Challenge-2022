@@ -40,8 +40,8 @@ Here are overview of each challenge. For more infomation, please see [Quantum In
 <table>
 <tr>
   <th></th>
-  <th>Quantum Information Expart</th>
-  <th>Quantum Chemistry Expart</th>
+  <th>Quantum Information Expert</th>
+  <th>Quantum Chemistry Expert</th>
 <tr>
   <th>Challenge</th>
   <td>What’s the best way to speed-up for a given chemical system & algorithm?</td>
