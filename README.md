@@ -26,11 +26,11 @@ You can choose a challenge that is related to your area of ex.epertise or you're
 
 ---
 ### Prizes
-The winner of this challenge with a great project will receive a great prize!
+The winner of this challenge with a great project will receive a great prize! Regarding to monetary award, you can try both challenges so that you will have chance to get 10,000 USD!
 
-#### 1. Monetary awards
+#### 1. Monetary award 
    - Quantum Information Experts : 5,000 USD
-   - Quantum Chemistry Experts : 5,000 USD
+   - Quantum Chemistry Experts : 5,000 USD  
 
 #### 2. [Qamuy](https://qunasys.com/en/services/qamuy) free license
 
@@ -98,12 +98,12 @@ Here are overview of each challenge. For more infomation, please see [Quantum In
   <td></td>
   <td></td>
   <td>
-    <b>May 6, 17:00-18:30 (JST)</b><br>
+    <b>May 6, 17:00-18:30 (JST):</b><br>
     Kick-off Event<br>
     <ul>
       <li>Overview and detailed description of Challanges - Tennin Yan
         <ul>
-          <li>Detailed description of each Challenges (Quantum Information Expert / Quantum Chemistry Expert)</li>
+          <li>Problem description of each challenge (Quantum Information Expert / Quantum Chemistry Expert)</li>
           <li>Evalution criteria</li>
           <li>Awards, etc.</li>
         </ul>
@@ -125,9 +125,11 @@ Here are overview of each challenge. For more infomation, please see [Quantum In
 </tr>
 <tr>
   <td>
-    <b>May 15, 23:59 (JST)</b><br>
-    1st deadline<br>
-    *Participants who fished their project can submit by this date
+    <b>May 15, 23:59 (JST):</b><br>
+   <ul>
+    <li>1st deadline of project submission</li>
+    <li>Participants who fished their projects can submit by this date.</li>
+   </ul>
   <td></td>
   <td></td>
   <td></td>
@@ -137,13 +139,19 @@ Here are overview of each challenge. For more infomation, please see [Quantum In
 </tr>
 <tr>
   <td>
-    <b>May 22, 23:59 (JST)</b><br>
-    2nd deadline<br>
-    finish Qamuy free trial period
+    <b>May 22, 23:59 (JST):</b><br>
+   <ul>
+    <li>2nd (final) deadline of project submission</li>
+    <li>End of free use period for Qamuy</li>
+   </ul>
   </td>
-  <td colspan=6 align="center" valign="middle">
-    <b>May 23 - May 29</b><br>
-    Evaluation Phase
+  <td colspan=5 align="center" valign="middle">
+    <b>May 23 - May 28:</b><br>
+    Evaluation phase
+  </td>
+  <td>
+   <b>May 29:</b><br>
+   Announcement of finalists
   </td>
 </tr>
 <tr>
@@ -153,11 +161,10 @@ Here are overview of each challenge. For more infomation, please see [Quantum In
   <td></td>
   <td></td>
   <td>
-    <b>Jun 3, 17:00-20:00 (JST)</b><br>
+    <b>Jun 3, 17:00-20:00 (JST):</b><br>
     Final Judgement<br>
     <ul>
-      <li></li>
-      <li></li>
+      <li>Finalists make their presentations online.(about 10 min.)</li>
     </ul>
   </td>
   <td></td>
