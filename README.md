@@ -2,9 +2,43 @@
 Submission repository for QPARC Challenge 2022 https://www.quantumcomputingchallenge.com/
 
 # What is QPARC Challenge?
+QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. Participants can access freely to Qamuy, a quantum computing cloud service, to solve challenges in combination with other quantum chemistry calculation programs.
+ 
+From 6th to 15th of May, participants will solve challenges related to material development. On 15th May, finalists are selected for next step and prepare for presentation for final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded total 10,000 USD and Qamuy free licence.
 
 # What is new about QPARC Challenge?
+(i) Key concept
+The unique point of the QPARC challenge is that we start from the existing “State-of-the-art algorithm”. While many other challenges introduce existing applications to which quantum algorithms can be applied, QPARC Challenge only sets industrial problems. You can use Qamuy  to perform numerous chemical simulations.
 
+(ii) Challenges specific to your area of expertise
+In OPARC Challenge, there are two types of challenges:
+
+ For Quantum Information Experts
+ For Quantum Chemistry Experts
+ 
+You can choose a challenge that is related to your area of ex.epertise or you're interested in. Aims and evaluation criteria for each type are shown in a table below.  
+
+# Detail of QPARC Challenge
+
+<table>
+<tr>
+  <th></th>
+  <th>Quantum Information Expart</th>
+  <th>Quantum Chemistry Expart</th>
+<tr>
+  <th>Challenge</th>
+  <th></th>
+  <th></th>
+<tr>
+  <th>Aim and expectation</th>
+  <th></th>
+  <th></th>
+<tr>
+  <th>Evaluation criteria</th>
+  <th></th>
+  <th></th>
+</table>
+  
 # Schedule
 <table>
 <tr>
@@ -88,3 +122,14 @@ Submission repository for QPARC Challenge 2022 https://www.quantumcomputingchall
   <td></td>
 </tr>
 </table>
+# How to submit
+To submit, simply open an Issue using this template summarizing your project. Specifically, this issue should contain:
+
+Team name: Your team's name
+Team members: Listup all members name
+Applied challenge: Choose from: Chemistry Challenge Information Challenge In addition, please label this GitHub issue with the challenge you applied.
+Project Description: A brief description of your project (1-2 paragraphs).
+Presentation: A link of presentation of your team’s hackathon project (e.g., video, jupyter notebook, slideshow, etc.).
+Source code: A link to the final source code for your team's hackathon project (e.g., a GitHub repo).
+
+# Tutorials
