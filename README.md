@@ -30,8 +30,8 @@ The winner of this challenge with a great project will receive a great prize!
 
 #### 2. [Qamuy](https://qunasys.com/en/services/qamuy) free license
 
-## Detail of QPARC Challenge
-
+## Quantum Information Challenge and Quantum Chemistry Challenge
+Here are overview of each challenge. For more infomation, please see [Quantum Information Challenge](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Information-Expert) and [Quantum Chemistry Challenge](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Chemistry-Expert)
 <table>
 <tr>
   <th></th>
