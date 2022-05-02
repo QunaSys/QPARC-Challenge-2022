@@ -22,11 +22,12 @@ In this challenge, the participants are expected to show a demonstration that is
 
 ### The scope of your idea
 - Demonstraion based on VQE. For example,
-    - [Computation of oscillator strength based on VQD (Variational Quantum Deflation)](https://arxiv.org/abs/2002.11724)
+    - Photochemical simulation using [oscillator strength based on VQD (Variational Quantum Deflation)](https://arxiv.org/abs/2002.11724)
     - [Computation of periodic materials using VQE](https://arxiv.org/abs/2008.09492) 
-    - [Analytical energy gradient for state-averaged orbital-optimized VQE](https://arxiv.org/abs/2107.12705)
-    - [Deep VQE: a divide-and-conquer method for solving a larger problem with smaller size quantum computers](https://arxiv.org/abs/2007.10917)
-    - [Calculating nonadiabatic couplings and Berry's phase by VQE](https://arxiv.org/abs/2003.01706)
+    - Conical intersection optimization using [analytical energy gradient for state-averaged orbital-optimized VQE](https://arxiv.org/abs/2107.12705)
+    - A divide-and-conquer method for solving a larger problem with smaller size quantum computers: [deep VQE](https://arxiv.org/abs/2007.10917)
+    - Chemical reaction path search using [gradient and hessian computation algorithms](https://arxiv.org/abs/1905.04054)
+    - Nonadiabatic dynamics calculation using [gradients and nonadiabatic couplings within state-averaged orbital-optimized VQE](https://arxiv.org/abs/2009.11417)
     
 - Demonstraion based on the method beyond VQE. We highly evaluate if you come up with an algorithm beyond VQE.
     - You can use proposed algorithms or build new methods based on the algorithm beyond VQE to compute significant molecular properties.
