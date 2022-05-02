@@ -193,7 +193,8 @@ To submit, simply open an Issue using [this template](https://github.com/QunaSys
 - [Qulacs](http://docs.qulacs.org/en/latest/intro/0_about.html)
 - Qamuy
   - [Documentation](https://qamuy.qunasys.com/docs/en/)
-  - [Demo(Youtube)](https://www.youtube.com/channel/UCsoXHqDTL_OLGARj0sl-s4A/featured) *will be available on May 6
+  - [Demo (Jupyter Notebook)](https://github.com/QunaSys/QPARC-Challenge-2022/blob/main/QPARC_challenge_Qamuy_tutorial.ipynb)
+  - [Demo (Youtube)](https://www.youtube.com/channel/UCsoXHqDTL_OLGARj0sl-s4A/featured) *will be available on May 6
 - Qiskit
   - [Qiskit tutorials: Chemistry](https://quantum-computing.ibm.com/lab/docs/iql/chemistry)
   - [Qiskit Nature Documentation](https://qiskit.org/documentation/nature/)
