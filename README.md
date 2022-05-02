@@ -15,7 +15,7 @@ From 6th to 22th of May, participants will solve challenges related to material 
 ### What is new about QPARC Challenge?
 #### 1. About QPARC  
  QPARC is a industrial consortiunm focusing on learning state-of-the-art quantum computer algorithm and exploring the potential industrial applications. With more than 50 companies participate in this consortium, we are activly working on learning new quantum algorithm and apply it to potential applications.
- [QPARC homepage](https://www.qparc.qunasys.com/?lang=en)
+ [QPARC homepage](https://www.qparc.qunasys.com/?lang=en).
 
 #### 2. Why we started this challenge?  
 
@@ -187,5 +187,17 @@ To submit, simply open an Issue using [this template](https://github.com/QunaSys
 6. Source code: A link to the final source code for your team's hackathon project (e.g., a GitHub repo).
 
 *If you are applying for both Challenges,  you must submit the two projects separately. For example, submit one project with Chemistry Challenge label, and another project with Information Challenge label.
+
+---
+### Tutorials
+- [Qulacs](http://docs.qulacs.org/en/latest/intro/0_about.html)
+- Qamuy
+  - [Documentation](https://qamuy.qunasys.com/docs/en/)
+  - [Demo(Youtube)](https://www.youtube.com/channel/UCsoXHqDTL_OLGARj0sl-s4A/featured) *will be available on May 6
+- Qiskit
+  - [Qiskit tutorials: Chemistry](https://quantum-computing.ibm.com/lab/docs/iql/chemistry)
+  - [Qiskit Nature Documentation](https://qiskit.org/documentation/nature/)
+- [Cirq](https://quantumai.google/cirq/tutorials)
+- [Pennylane](https://pennylane.ai/qml/demonstrations.html)
 
 
