@@ -3,21 +3,25 @@
 # QPARC-Challenge-2022
 [QPARC Challenge 2022](https://www.quantumcomputingchallenge.com/)  
  [Qulacs](https://qulacs.slack.com/join/shared_invite/enQtNzY1OTM5MDYxMjAxLWM1ZDc3MzdiNjZhZjdmYTQ5MTJiOTEzZjI3ZjAwZTg0OGFiNjcxY2VjZWRjMWY0YjE5ZTViOWQzZTliYzdmYzY#/shared-invite/email)  
- [Youtube]()
+ [Youtube](https://www.youtube.com/channel/UCsoXHqDTL_OLGARj0sl-s4A)
 
 ---
-### What is QPARC Challenge?
-QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. Participants can access Qamuy, a quantum computing cloud service, to solve challenges in combination with other quantum chemistry calculation programs.
+### Overview of QPARC Challenge
+QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. 
  
-From 6th to 15th of May, participants will solve challenges related to material development. On 29th May, finalists are selected for the next step and prepare for a presentation for the final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded 10,000 USD in total (5,000 USD for each challenge) and Qamuy free license.
+From 6th to 22th of May, participants will solve challenges related to material development. On 29th May, finalists are selected for the next step and prepare for a presentation for the final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded 10,000 USD in total (5,000 USD for each challenge) and Qamuy free license.
 
 ---
 ### What is new about QPARC Challenge?
-#### 1. Key concept  
- The unique point of the QPARC challenge is that we start from the existing “State-of-the-art algorithm”. While many other challenges introduce existing applications to which quantum algorithms can be applied, QPARC Challenge only sets industrial problems. You can use Qamuy  to perform numerous chemical simulations.
+#### 1. About QPARC  
+ QPARC is a industrial consortiunm focusing on learning state-of-the-art quantum computer algorithm and exploring the potential industrial applications. With more than 50 companies participate in this consortium, we are activly working on learning new quantum algorithm and apply it to potential applications.
+ [QPARC homepage](https://www.qparc.qunasys.com/?lang=en)
 
-#### 2. Challenges specific to your area of expertise  
- In OPARC Challenge, there are two types of challenges:
+#### 2. Why we started this challenge?  
+
+#### 3. Challenges specific to your area of expertise  
+
+ In QPARC Challenge, there are two types of challenges:
 
  - [Quantum Information Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Information-Expert)
  - [Quantum Chemistry Experts](https://github.com/QunaSys/QPARC-Challenge-2022/tree/main/Quantum-Chemistry-Expert)
@@ -184,5 +188,4 @@ To submit, simply open an Issue using [this template](https://github.com/QunaSys
 
 *If you are applying for both Challenges,  you must submit the two projects separately. For example, submit one project with Chemistry Challenge label, and another project with Information Challenge label.
 
----
-### Tutorials
+
