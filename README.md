@@ -17,9 +17,7 @@ From 6th to 22th of May, participants will solve challenges related to material 
  QPARC is a industrial consortiunm focusing on learning state-of-the-art quantum computer algorithm and exploring the potential industrial applications. With more than 50 companies participate in this consortium, we are activly working on learning new quantum algorithm and apply it to potential applications.
  [QPARC homepage](https://www.qparc.qunasys.com/?lang=en).
 
-#### 2. Why we started this challenge?  
-
-#### 3. Challenges specific to your area of expertise  
+#### 2. Challenges specific to your area of expertise  
 
  In QPARC Challenge, there are two types of challenges:
 
