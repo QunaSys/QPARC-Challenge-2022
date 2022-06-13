@@ -1,15 +1,38 @@
 ![image2](https://user-images.githubusercontent.com/81676915/166094918-280c5d1b-a8e1-41e9-81cd-73ac42e4a545.jpg)
 
 # QPARC-Challenge-2022
-[QPARC Challenge 2022](https://www.quantumcomputingchallenge.com/)  
- [Qulacs](https://qulacs.slack.com/join/shared_invite/enQtNzY1OTM5MDYxMjAxLWM1ZDc3MzdiNjZhZjdmYTQ5MTJiOTEzZjI3ZjAwZTg0OGFiNjcxY2VjZWRjMWY0YjE5ZTViOWQzZTliYzdmYzY#/shared-invite/email)  
- [Youtube](https://www.youtube.com/channel/UCsoXHqDTL_OLGARj0sl-s4A)
+### Congratulations to the Winners of QPARC Challenge 2022!
+We hosted the Final Judgement on June 3. After much deliberation between judges, we're very excited to announce the winners of Chemistry Challenge and Information Challenge. Congratulations to both teams, kuchemQCL and CloudKite, and thank you others who submitted great projects. See you next quantum challenge!
 
+### Winners of Chemistry Challenge
+- Team: kuchemQCL<br>
+- Team member: <br>
+  - NISHIO, Soichiro (DC3)<br>
+  - HINO, Kentaro (MC2)<br>
+  - UEDA, Koki (MC2)<br>
+  - MIYOKAWA, Katsuki (MC1)<br>
+  - TSUMURA, Masaya (MC1)<br>
+  - YOSHIDA, Takumi (MC1)<br>
+- Affiliation: Theoretical Chemistry Group, Department of Chemistry, Graduate School of Science, Kyoto University<br>
+- Country: Japan<br>
+- Project: [Designing complex molecular qubits by using QC simulator and relativistic quantum chemistry](https://github.com/QunaSys/QPARC-Challenge-2022/issues/6)<br>
+
+
+### Winners of Information Challenge
+- Team: CloudKite<br>
+- Team member:  Yunzhe Zheng<br>
+- Affiliation: Borregaard Group in TU Delft, in second year of MSc Applied Physics (Track Quantum Devices and Quantum Computing).<br>
+- Country: Netherlands<br>
+- Project: [Improving VQE accuracy for H4 molecule with shot limits](https://github.com/QunaSys/QPARC-Challenge-2022/issues/4)<br>
 ---
 ### Overview of QPARC Challenge
 QPARC Challenge is an international hackathon for students, engineers, scientists, and any others who learn quantum information and chemistry around the world. 
  
 From 6th to 22th of May, participants will solve challenges related to material development. On 29th May, finalists are selected for the next step and prepare for a presentation for the final judge. On 3rd June, final judgement is held and finalists give a presentation of their solutions, which is judged by industrial and academic experts. Winners will be awarded 10,000 USD in total (5,000 USD for each challenge) and Qamuy free license.
+
+[QPARC Challenge 2022](https://www.quantumcomputingchallenge.com/)  
+ [Qulacs](https://qulacs.slack.com/join/shared_invite/enQtNzY1OTM5MDYxMjAxLWM1ZDc3MzdiNjZhZjdmYTQ5MTJiOTEzZjI3ZjAwZTg0OGFiNjcxY2VjZWRjMWY0YjE5ZTViOWQzZTliYzdmYzY#/shared-invite/email)  
+ [Youtube](https://www.youtube.com/channel/UCsoXHqDTL_OLGARj0sl-s4A)
 
 ---
 ### What is new about QPARC Challenge?
